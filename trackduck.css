@@ -1,0 +1,12 @@
+/*testing TrackDuck*/
+#trackduck_firefox,#trackduck_chrome {display:inline-block;margin-right:30px;text-align:center;}
+#trackduck_firefox img,#trackduck_chrome img {display:block;margin-bottom:10px;}
+#trackduck_firefox span,#trackduck_chrome span {display:block;}
+#trackduck_google, #trackduck_facebook { color:#fff; border:0px; box-shadow:none; -webkit-box-shadow:none;font-weight:bold;line-height:40px;height:40px;padding:0px 30px;font-size:14px;}
+#trackduck_google {margin-right:10px;background-color:#f25f58; }
+#trackduck_facebook {margin-right:30px; background-color:#3565b0;}
+#trackduck_enable,#trackduck_disable {margin-right:30px;}
+#trackduck_extension_text, #trackduck_textapi_text {margin-bottom:15px;}
+.settings_page_trackduck_options th[scope="row"] {display: none;}
+.settings_page_trackduck_options th[scope="row"]+td {padding:0px;}
+.settings_page_trackduck_options #submit {display: none;}

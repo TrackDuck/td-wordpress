@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrackDuck 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-07 14:00+0300\n"
+"PO-Revision-Date: 2014-04-07 14:00+0300\n"
+"Last-Translator: Arūnas Liuiza <arunas@liuiza.lt>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+
+#: includes/options-data.php:7
+msgid "TrackDuck Options"
+msgstr ""
+
+#: includes/options-data.php:9
+msgid "TrackDuck"
+msgstr ""
+
+#: includes/options-data.php:21
+msgid "Main Settings"
+msgstr ""
+
+#: includes/options-data.php:25
+#: includes/options-data.php:157
+msgid "TrackDuck Project ID"
+msgstr ""
+
+#: includes/options-data.php:30
+#, php-format
+msgid "TrackDuck - visual feedback and bug tracking solution for your webiste. After installing TrackDuck for your website, you will be able to add comments with screenshots directly to your web pages. You can also receive error reports from users. Take control of feedback and communciation with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>."
+msgstr ""
+
+#: includes/options-data.php:33
+msgid "Get Project ID"
+msgstr ""
+
+#: includes/options-data.php:64
+#, php-format
+msgid "IE version 9 and older are not supported. Please update your browser or just copy paste the project ID from TrackDuck <a href=\"%1$s\" target=\"_blank\">website</a>."
+msgstr ""
+
+#: includes/options-data.php:82
+#: includes/options-data.php:123
+msgid "Enable integration"
+msgstr ""
+
+#: includes/options-data.php:99
+msgid "Google signup"
+msgstr ""
+
+#: includes/options-data.php:99
+msgid "Login with Facebook"
+msgstr ""
+
+#: includes/options-data.php:99
+msgid "Login or register with email"
+msgstr ""
+
+#: includes/options-data.php:131
+msgid "Disable integration"
+msgstr ""
+
+#: includes/options-data.php:132
+msgid "Open project settings"
+msgstr ""
+
+#: includes/options-data.php:145
+msgid "Enable TrackDuck"
+msgstr ""
+
+#: includes/options-data.php:146
+msgid "Add TrackDuck code to your website"
+msgstr ""
+
+#: includes/options-data.php:153
+msgid "Improve TrackDuck performance"
+msgstr ""
+
+#: includes/options-data.php:161
+msgid "Install extension for your favorite browser and time on screenshot capturing and adding visual feedback from your website."
+msgstr ""
+
