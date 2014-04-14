@@ -1,86 +1,84 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: TrackDuck 1.0.0\n"
+"Project-Id-Version: TrackDuck Wordpress\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-07 14:00+0300\n"
-"PO-Revision-Date: 2014-04-07 14:00+0300\n"
-"Last-Translator: Arūnas Liuiza <arunas@liuiza.lt>\n"
-"Language-Team: \n"
-"Language: \n"
+"POT-Creation-Date: 2014-04-14 13:28:49 UTC\n"
+"PO-Revision-Date: 2014-04-14 23:04:06 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: includes/options-data.php:7
+#: includes/options-data.php
 msgid "TrackDuck Options"
-msgstr ""
+msgstr "TrackDuck Options"
 
-#: includes/options-data.php:9
+#: includes/options-data.php
 msgid "TrackDuck"
-msgstr ""
+msgstr "TrackDuck"
 
-#: includes/options-data.php:21
+#: includes/options-data.php
 msgid "Main Settings"
-msgstr ""
+msgstr "Main Settings"
 
-#: includes/options-data.php:25
-#: includes/options-data.php:157
+#: includes/options-data.php
+#: includes/options-data.php
 msgid "TrackDuck Project ID"
-msgstr ""
+msgstr "TrackDuck Project ID"
 
-#: includes/options-data.php:30
-#, php-format
+#: includes/options-data.php
 msgid "TrackDuck - visual feedback and bug tracking solution for your webiste. After installing TrackDuck for your website, you will be able to add comments with screenshots directly to your web pages. You can also receive error reports from users. Take control of feedback and communciation with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>."
-msgstr ""
+msgstr "TrackDuck - visual feedback and bug tracking solution for web. After enabling TrackDuck plugin, you will be able to add comments with screenshots directly from your WordPress website, and receive detailed feedback from your customers. You can also receive error reports from users. Take control of feedback and communication with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>."
 
-#: includes/options-data.php:33
+#: includes/options-data.php
 msgid "Get Project ID"
-msgstr ""
+msgstr "Get Project ID"
 
-#: includes/options-data.php:64
-#, php-format
+#: includes/options-data.php
 msgid "IE version 9 and older are not supported. Please update your browser or just copy paste the project ID from TrackDuck <a href=\"%1$s\" target=\"_blank\">website</a>."
-msgstr ""
+msgstr "Please, update your browser. Currently we support all modern browsers and IE 10+."
 
-#: includes/options-data.php:82
-#: includes/options-data.php:123
+#: includes/options-data.php
+#: includes/options-data.php
 msgid "Enable integration"
-msgstr ""
+msgstr "Enable integration"
 
-#: includes/options-data.php:99
+#: includes/options-data.php
 msgid "Google signup"
-msgstr ""
+msgstr "Google signup"
 
-#: includes/options-data.php:99
+#: includes/options-data.php
 msgid "Login with Facebook"
-msgstr ""
+msgstr "Login with Facebook"
 
-#: includes/options-data.php:99
+#: includes/options-data.php
 msgid "Login or register with email"
-msgstr ""
+msgstr "Login or register with email"
 
-#: includes/options-data.php:131
+#: includes/options-data.php
 msgid "Disable integration"
-msgstr ""
+msgstr "Disable integration"
 
-#: includes/options-data.php:132
+#: includes/options-data.php
 msgid "Open project settings"
-msgstr ""
+msgstr "Open project settings"
 
-#: includes/options-data.php:145
+#: includes/options-data.php
 msgid "Enable TrackDuck"
-msgstr ""
+msgstr "Enable TrackDuck"
 
-#: includes/options-data.php:146
+#: includes/options-data.php
 msgid "Add TrackDuck code to your website"
-msgstr ""
+msgstr "Add TrackDuck code to your website"
 
-#: includes/options-data.php:153
+#: includes/options-data.php
 msgid "Improve TrackDuck performance"
-msgstr ""
+msgstr "Improve TrackDuck performance"
 
-#: includes/options-data.php:161
+#: includes/options-data.php
 msgid "Install extension for your favorite browser and time on screenshot capturing and adding visual feedback from your website."
-msgstr ""
+msgstr "Install extension for your favourite browser and to enhance screenshot capturing."
 

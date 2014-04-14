@@ -2,10 +2,10 @@
 /*
 Plugin Name: TrackDuck
 Plugin URI: https://trackduck.com/
-Description: Description goes here
+Description: Visual feedback for web-development
 Version: 0.1.0
-Author: Arūnas Liuiza
-Author URI: http://wordofpress.com
+Author: TrackDuck & Arūnas Liuiza
+Author URI: https://trackduck.com/
 */
 
 // Make sure we don't expose any info if called directly
