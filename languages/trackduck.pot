@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: TrackDuck Wordpress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-14 13:28:49 UTC\n"
-"PO-Revision-Date: 2014-04-14 23:04:06 UTC\n"
-"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: English\n"
+"PO-Revision-Date: 2014-04-15 03:00+0300\n"
+"Last-Translator: info@trackduck.com <info@trackduck.com>\n"
+"Language-Team: TrackDuck\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: WebTranslateIt.com\n"
+"X-Generator: Poedit 1.6.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: en\n"
 
 #: includes/options-data.php
 msgid "TrackDuck Options"
@@ -25,23 +26,37 @@ msgid "Main Settings"
 msgstr "Main Settings"
 
 #: includes/options-data.php
-#: includes/options-data.php
 msgid "TrackDuck Project ID"
 msgstr "TrackDuck Project ID"
 
 #: includes/options-data.php
-msgid "TrackDuck - visual feedback and bug tracking solution for your webiste. After installing TrackDuck for your website, you will be able to add comments with screenshots directly to your web pages. You can also receive error reports from users. Take control of feedback and communciation with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>."
-msgstr "TrackDuck - visual feedback and bug tracking solution for web. After enabling TrackDuck plugin, you will be able to add comments with screenshots directly from your WordPress website, and receive detailed feedback from your customers. You can also receive error reports from users. Take control of feedback and communication with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>."
+msgid ""
+"TrackDuck - visual feedback and bug tracking solution for web. After "
+"enabling TrackDuck plugin, you will be able to add comments with screenshots "
+"directly from your WordPress website, and receive detailed feedback from "
+"your customers. You can also receive error reports from users. Take control "
+"of feedback and communication with clients, sign up for track duck for free. "
+"Learn more on <a href=\"%1$s\">TrackDuck website</a>."
+msgstr ""
+"TrackDuck - visual feedback and bug tracking solution for web. After "
+"enabling TrackDuck plugin, you will be able to add comments with screenshots "
+"directly from your WordPress website, and receive detailed feedback from "
+"your customers. You can also receive error reports from users. Take control "
+"of feedback and communication with clients, sign up for track duck for free. "
+"Learn more on <a href=\"%1$s\">TrackDuck website</a>."
 
 #: includes/options-data.php
 msgid "Get Project ID"
 msgstr "Get Project ID"
 
 #: includes/options-data.php
-msgid "IE version 9 and older are not supported. Please update your browser or just copy paste the project ID from TrackDuck <a href=\"%1$s\" target=\"_blank\">website</a>."
-msgstr "Please, update your browser. Currently we support all modern browsers and IE 10+."
+msgid ""
+"Please, update your browser. Currently we support all modern browsers and IE "
+"10+."
+msgstr ""
+"Please, update your browser. Currently we support all modern browsers and IE "
+"10+."
 
-#: includes/options-data.php
 #: includes/options-data.php
 msgid "Enable integration"
 msgstr "Enable integration"
@@ -79,6 +94,9 @@ msgid "Improve TrackDuck performance"
 msgstr "Improve TrackDuck performance"
 
 #: includes/options-data.php
-msgid "Install extension for your favorite browser and time on screenshot capturing and adding visual feedback from your website."
-msgstr "Install extension for your favourite browser and to enhance screenshot capturing."
-
+msgid ""
+"Install extension for your favourite browser and to enhance screenshot "
+"capturing."
+msgstr ""
+"Install extension for your favourite browser and to enhance screenshot "
+"capturing."

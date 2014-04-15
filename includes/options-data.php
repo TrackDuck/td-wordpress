@@ -27,7 +27,7 @@ class TrackDuck_Options_Data {
 							'description' => ' ',
 							'options'			=> array(
                 'text'        => sprintf(
-                  __('TrackDuck - visual feedback and bug tracking solution for your webiste. After installing TrackDuck for your website, you will be able to add comments with screenshots directly to your web pages. You can also receive error reports from users. Take control of feedback and communciation with clients, sign up for track duck for free. Learn more on <a href="%1$s">TrackDuck website</a>.','trackduck'),
+                  __('TrackDuck - visual feedback and bug tracking solution for web. After enabling TrackDuck plugin, you will be able to add comments with screenshots directly from your WordPress website, and receive detailed feedback from your customers. You can also receive error reports from users. Take control of feedback and communication with clients, sign up for track duck for free. Learn more on <a href=\"%1$s\">TrackDuck website</a>.','trackduck'),
                   'http://trackduck.com'                  
                 ),
 								'button'			=> __('Get Project ID','trackduck'),
@@ -61,7 +61,7 @@ TrackDuck.getSettings = function (my_href,redirect){
    if (xhr === null) {
     jQuery(\'#trackduck_options_trackduck_id\').parent().find(\'.description\').first().html(
     	\''.sprintf(
-    		__('IE version 9 and older are not supported. Please update your browser or just copy paste the project ID from TrackDuck <a href="%1$s" target="_blank">website</a>.','trackduck'),
+    		__('Please, update your browser. Currently we support all modern browsers and IE 10+','trackduck'),
     		'https://app.trackduck.com/'
     	).'\'
     );
@@ -170,7 +170,7 @@ jQuery(document).ready(function(){
               'type'        => 'extension',
               'description' => ' ',
               'options'     => array(
-                'text'        => __('Install extension for your favorite browser and time on screenshot capturing and adding visual feedback from your website.','trackduck'),
+                'text'        => __('Install extension for your favourite browser and to enhance screenshot capturing','trackduck'),
                 'script'      => '
 jQuery(\'.form-table\').first().next().hide().next().hide();
 jQuery(document).ready(function(){
