@@ -144,19 +144,19 @@ class TrackDuck_Options {
 
 	public function textapi( $args ) {
 		printf(
-			'<p class="textapi_text" id="trackduck_textapi_text">%6$s</p>
-			<input class="regular-text" id="%3$s" name="%1$s" type="hidden" value="%2$s" /><script>%5$s</script>',
+			'<p class="textapi_text" id="trackduck_textapi_text">%5$s</p>
+			<input class="regular-text" id="%3$s" name="%1$s" type="hidden" value="%2$s" />',
 			esc_attr( $args['option_id'] ),
 			esc_attr( $args['value'] ),
 			str_replace(array('[',']'),array('_',''),esc_attr( $args['option_id'] )),
 			$args['options']['button'],
-			$args['options']['script'],
 			$args['options']['text']
 		);
+
 	}
 	public function extension( $args ) {
 		printf(
-			'<p class="extension_text" id="trackduck_extension_text">%5$s</p>
+			'<p class="extension_text" id="trackduck_extension_text">%4$s</p>
 			<a href="https://trackduck.com/en/extensions/firefox/" id="trackduck_firefox" target="_blank">
 			 <img src="'.TRACKDUCK_PLUGIN_URL.'images/ff.png" alt="">
 			 <span>Mozilla Firefox</span>
@@ -165,11 +165,10 @@ class TrackDuck_Options {
  			  <img src="'.TRACKDUCK_PLUGIN_URL.'images/chrome.png" alt="">
 			  <span>Google Chrome</span>
 			</a>
-			<script>%4$s</script>',
+			',
 			esc_attr( $args['option_id'] ),
 			esc_attr( $args['value'] ),
 			str_replace(array('[',']'),array('_',''),esc_attr( $args['option_id'] )),
-			$args['options']['script'],
 			$args['options']['text']
 		);
 	}

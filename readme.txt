@@ -2,12 +2,12 @@
 Contributors: ideag
 Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting
 Requires at least: 3.0.1
-Tested up to: 3.8.1
-Stable tag: 0.1.0
+Tested up to: 4.0.0
+Stable tag: 0.1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-TrackDuck covers all your feedback needs: from mock-ups to a live website.
+TrackDuck covers all your feedback needs: from mockups to a live website.
 
 == Description ==
 
@@ -38,6 +38,9 @@ Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck 
 
 
 == Screenshots ==
+1. Every issue is marked directly in the website, comes with comment, priority, etc...
+2. Get Quality Feedback from Clients and Colleagues
+3. Manage Feedback the Way You Want It
 
 
 == Changelog ==
